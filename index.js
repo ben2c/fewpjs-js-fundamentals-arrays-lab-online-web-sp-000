@@ -1,2 +1,5 @@
 // Write your solution here!
-console.log(pets);
+const append = pet.push('Odie')
+const prepend = 
+const removeLast =
+const removeFirst = 
